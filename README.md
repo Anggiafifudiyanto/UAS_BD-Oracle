@@ -2,7 +2,7 @@
 https://youtu.be/ZHbsaDC1Wc8
 
 
-# Descripsi
+# Deskripsi :
 # 1. Halaman Utama / Dashboard
 ![home](https://user-images.githubusercontent.com/45707169/152665792-2df9794e-d601-461a-a416-4bb722615d4a.png)
 
